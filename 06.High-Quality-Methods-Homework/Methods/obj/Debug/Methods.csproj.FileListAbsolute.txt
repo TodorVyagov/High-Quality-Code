@@ -1,0 +1,10 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods\Methods\bin\Debug\Methods.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods\Methods\bin\Debug\Methods.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods\Methods\obj\Debug\Methods.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods\Methods\obj\Debug\Methods.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\06.High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache

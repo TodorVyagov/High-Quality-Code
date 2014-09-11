@@ -1,0 +1,12 @@
+D:\Todor\Telerik\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe.config
+D:\Todor\Telerik\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Todor\Telerik\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Todor\Telerik\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Todor\Telerik\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe.config
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\07.High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
