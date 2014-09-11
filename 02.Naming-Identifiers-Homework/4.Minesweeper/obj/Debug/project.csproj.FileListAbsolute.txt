@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\2.Naming-Identifiers-Homework\bin\Debug\Minesweeper.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\2.Naming-Identifiers-Homework\bin\Debug\Minesweeper.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\2.Naming-Identifiers-Homework\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\2.Naming-Identifiers-Homework\obj\Debug\Minesweeper.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\2.Naming-Identifiers-Homework\obj\Debug\Minesweeper.pdb

@@ -1,0 +1,2 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\2.Naming-Identifiers-Homework\3.Refactor-JSCode\bin\Debug\3.Refactor-JSCode.exe.config
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\2.Naming-Identifiers-Homework\3.Refactor-JSCode\obj\Debug\3.Refactor-JSCode.csprojResolveAssemblyReference.cache
