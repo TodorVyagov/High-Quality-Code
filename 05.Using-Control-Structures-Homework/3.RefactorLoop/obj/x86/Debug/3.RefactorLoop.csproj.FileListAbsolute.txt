@@ -1,0 +1,6 @@
+D:\Todor\Telerik\High-Quality-Code\5.Using-Control-Structures-Homework\3.RefactorLoop\bin\Debug\3.RefactorLoop.exe
+D:\Todor\Telerik\High-Quality-Code\5.Using-Control-Structures-Homework\3.RefactorLoop\bin\Debug\3.RefactorLoop.pdb
+D:\Todor\Telerik\High-Quality-Code\5.Using-Control-Structures-Homework\3.RefactorLoop\obj\x86\Debug\3.RefactorLoop.exe
+D:\Todor\Telerik\High-Quality-Code\5.Using-Control-Structures-Homework\3.RefactorLoop\obj\x86\Debug\3.RefactorLoop.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\5.Using-Control-Structures-Homework\3.RefactorLoop\obj\x86\Debug\3.RefactorLoop.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\5.Using-Control-Structures-Homework\3.RefactorLoop\obj\x86\Debug\3.RefactorLoop.pdb

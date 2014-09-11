@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Chef", "1.Chef\1.Chef.csproj", "{121CECD0-A373-4565-B40D-B4C1409C6294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.RefactorIfStatements", "2.RefactorIfStatements\2.RefactorIfStatements.csproj", "{4BED1B87-731A-4895-BB22-5AE1A2C3B195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.RefactorLoop", "3.RefactorLoop\3.RefactorLoop.csproj", "{2DC14C80-02C2-4A95-A845-D72BF4D19FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121CECD0-A373-4565-B40D-B4C1409C6294}.Debug|x86.ActiveCfg = Debug|x86
+		{121CECD0-A373-4565-B40D-B4C1409C6294}.Debug|x86.Build.0 = Debug|x86
+		{121CECD0-A373-4565-B40D-B4C1409C6294}.Release|x86.ActiveCfg = Release|x86
+		{121CECD0-A373-4565-B40D-B4C1409C6294}.Release|x86.Build.0 = Release|x86
+		{4BED1B87-731A-4895-BB22-5AE1A2C3B195}.Debug|x86.ActiveCfg = Debug|x86
+		{4BED1B87-731A-4895-BB22-5AE1A2C3B195}.Debug|x86.Build.0 = Debug|x86
+		{4BED1B87-731A-4895-BB22-5AE1A2C3B195}.Release|x86.ActiveCfg = Release|x86
+		{4BED1B87-731A-4895-BB22-5AE1A2C3B195}.Release|x86.Build.0 = Release|x86
+		{2DC14C80-02C2-4A95-A845-D72BF4D19FC9}.Debug|x86.ActiveCfg = Debug|x86
+		{2DC14C80-02C2-4A95-A845-D72BF4D19FC9}.Debug|x86.Build.0 = Debug|x86
+		{2DC14C80-02C2-4A95-A845-D72BF4D19FC9}.Release|x86.ActiveCfg = Release|x86
+		{2DC14C80-02C2-4A95-A845-D72BF4D19FC9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
