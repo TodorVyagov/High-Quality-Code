@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\08.Assertions-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\08.Assertions-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\08.Assertions-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\08.Assertions-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\08.Assertions-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
