@@ -1,0 +1,9 @@
+D:\Todor\Telerik\High-Quality-Code\4.Using-Variables-Homework\4.HW-Using-Variables-Data-Constants\1.TestSize\bin\Debug\1.TestSize.exe
+D:\Todor\Telerik\High-Quality-Code\4.Using-Variables-Homework\4.HW-Using-Variables-Data-Constants\1.TestSize\bin\Debug\1.TestSize.pdb
+D:\Todor\Telerik\High-Quality-Code\4.Using-Variables-Homework\4.HW-Using-Variables-Data-Constants\1.TestSize\obj\x86\Debug\1.TestSize.exe
+D:\Todor\Telerik\High-Quality-Code\4.Using-Variables-Homework\4.HW-Using-Variables-Data-Constants\1.TestSize\obj\x86\Debug\1.TestSize.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\4.Using-Variables-Homework\1.TestSize\obj\x86\Debug\1.TestSize.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\4.Using-Variables-Homework\1.TestSize\obj\x86\Debug\1.TestSize.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\4.Using-Variables-Homework\1.TestSize\bin\Debug\1.TestSize.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\4.Using-Variables-Homework\1.TestSize\bin\Debug\1.TestSize.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\4.Using-Variables-Homework\1.TestSize\obj\x86\Debug\1.TestSize.csprojResolveAssemblyReference.cache
