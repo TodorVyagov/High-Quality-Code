@@ -1,0 +1,2 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\1.HW-Code-Formatting\1.Code-Formatting-Homework\1.Homework-Code-Formatting\Exercises\bin\Debug\Exercises.exe.config
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\1.HW-Code-Formatting\1.Code-Formatting-Homework\1.Homework-Code-Formatting\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
