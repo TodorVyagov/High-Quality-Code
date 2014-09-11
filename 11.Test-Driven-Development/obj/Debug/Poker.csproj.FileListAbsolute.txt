@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\bin\Debug\Poker.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\bin\Debug\Poker.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\obj\Debug\Poker.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\obj\Debug\Poker.pdb

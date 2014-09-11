@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\03.AdvancedMathOperationsTest\bin\Debug\03.AdvancedMathOperationsTest.exe.config
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\03.AdvancedMathOperationsTest\bin\Debug\03.AdvancedMathOperationsTest.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\03.AdvancedMathOperationsTest\bin\Debug\03.AdvancedMathOperationsTest.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\03.AdvancedMathOperationsTest\obj\Debug\03.AdvancedMathOperationsTest.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\03.AdvancedMathOperationsTest\obj\Debug\03.AdvancedMathOperationsTest.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\03.AdvancedMathOperationsTest\obj\Debug\03.AdvancedMathOperationsTest.pdb

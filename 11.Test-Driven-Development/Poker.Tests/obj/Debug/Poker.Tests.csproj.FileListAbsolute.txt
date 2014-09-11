@@ -1,0 +1,14 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\Poker.Tests\bin\Debug\Poker.Tests.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\Poker.Tests\bin\Debug\Poker.Tests.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\Poker.Tests\bin\Debug\Poker.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\Poker.Tests\bin\Debug\Poker.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\Poker.Tests\obj\Debug\Poker.Tests.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\Poker.Tests\obj\Debug\Poker.Tests.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\Poker.Tests\bin\Debug\Poker.Tests.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\Poker.Tests\bin\Debug\Poker.Tests.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\Poker.Tests\bin\Debug\Poker.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\Poker.Tests\bin\Debug\Poker.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\11.Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.pdb

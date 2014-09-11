@@ -1,0 +1,7 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\10.Unit-Testing\TestSchool\bin\Debug\TestSchool.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\10.Unit-Testing\TestSchool\bin\Debug\TestSchool.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\10.Unit-Testing\TestSchool\bin\Debug\SchoolOrganization.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\10.Unit-Testing\TestSchool\bin\Debug\SchoolOrganization.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\10.Unit-Testing\TestSchool\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\10.Unit-Testing\TestSchool\obj\Debug\TestSchool.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\10.Unit-Testing\TestSchool\obj\Debug\TestSchool.pdb

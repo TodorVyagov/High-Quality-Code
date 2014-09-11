@@ -1,0 +1,11 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Moq.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Moq.xml
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.xml
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.pdb

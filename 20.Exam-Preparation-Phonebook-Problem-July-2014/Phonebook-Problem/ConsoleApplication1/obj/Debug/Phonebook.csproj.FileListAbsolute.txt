@@ -1,0 +1,7 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\20.Exam-Preparation-Phonebook-Problem-July-2014\Phonebook-Problem\ConsoleApplication1\bin\Debug\Phonebook.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\20.Exam-Preparation-Phonebook-Problem-July-2014\Phonebook-Problem\ConsoleApplication1\bin\Debug\Phonebook.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\20.Exam-Preparation-Phonebook-Problem-July-2014\Phonebook-Problem\ConsoleApplication1\bin\Debug\PowerCollections.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\20.Exam-Preparation-Phonebook-Problem-July-2014\Phonebook-Problem\ConsoleApplication1\bin\Debug\PowerCollections.xml
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\20.Exam-Preparation-Phonebook-Problem-July-2014\Phonebook-Problem\ConsoleApplication1\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\20.Exam-Preparation-Phonebook-Problem-July-2014\Phonebook-Problem\ConsoleApplication1\obj\Debug\Phonebook.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\20.Exam-Preparation-Phonebook-Problem-July-2014\Phonebook-Problem\ConsoleApplication1\obj\Debug\Phonebook.pdb

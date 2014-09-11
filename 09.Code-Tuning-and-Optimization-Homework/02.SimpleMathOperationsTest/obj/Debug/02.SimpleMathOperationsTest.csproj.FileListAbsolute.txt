@@ -1,0 +1,9 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\02.SimpleMathOperationsTest\bin\Debug\02.SimpleMathOperationsTest.exe.config
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\02.SimpleMathOperationsTest\bin\Debug\02.SimpleMathOperationsTest.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\02.SimpleMathOperationsTest\bin\Debug\02.SimpleMathOperationsTest.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\02.SimpleMathOperationsTest\obj\Debug\02.SimpleMathOperationsTest.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\02.SimpleMathOperationsTest\obj\Debug\02.SimpleMathOperationsTest.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\02.SimpleMathOperationsTest\obj\Debug\02.SimpleMathOperationsTest.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\02.SimpleMathOperationsTest\bin\Debug\02.SimpleMathOperationsTest.exe.config
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\02.SimpleMathOperationsTest\obj\Debug\02.SimpleMathOperationsTest.exe
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\09.Code-Tuning-and-Optimization-Homework\02.SimpleMathOperationsTest\obj\Debug\02.SimpleMathOperationsTest.pdb

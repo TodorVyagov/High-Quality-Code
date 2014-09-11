@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars\bin\Debug\Cars.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars\bin\Debug\Cars.pdb
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars\obj\Debug\Cars.dll
+D:\Todor\Telerik Software Academy\06.High-Quality-Code\19.Mocking with Moq and JustMock-Demos\Cars\obj\Debug\Cars.pdb
